@@ -22,3 +22,6 @@
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </div>
+
+### About me
+I am a Computer Science student at Unifal-MG, and I am very interested and curious about backend technologies, such as Spring Boot, Java, REST APIs, etc. When I'm not coding, I enjoy spending my free time playing soccer ⚽ and playing my acoustic guitar 🎸 and cavaquinho.
